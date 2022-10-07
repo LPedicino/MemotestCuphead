@@ -12,7 +12,7 @@
 
 <span align="center">
 
-##### Hi, I'm Leandro and here is my Memotest made with HTML CSS & JS.<br>I did it from a tutorial of :point_right: [Padawains Twitch](https://www.twitch.tv/padawanstrainer) :point_left: Check out his channel!!<br>Thanks for stopping by, I hope you enjoy it.
+##### Hi, I'm Leandro and here is my Memotest made with HTML CSS & JS.<br>I did it from a tutorial of :point_right: [PadawansTrainer](https://www.twitch.tv/padawanstrainer) :point_left: Check out his channel!!<br>Thanks for stopping by, I hope you enjoy it.
 <br>
 </span>
 
